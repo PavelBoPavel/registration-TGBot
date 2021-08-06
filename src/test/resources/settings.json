@@ -1,0 +1,38 @@
+{
+  "update_id": 248299992,
+  "message": {
+    "chatId": 365905429,
+    "superGroupMessage": false,
+    "command": true,
+    "groupMessage": false,
+    "reply": false,
+    "userMessage": true,
+    "channelMessage": false,
+    "message_id": 3,
+    "from": {
+      "bot": false,
+      "id": 365905429,
+      "first_name": "66440",
+      "is_bot": false,
+      "language_code": "ru"
+    },
+    "date": 1625387010,
+    "chat": {
+      "userChat": true,
+      "superGroupChat": false,
+      "groupChat": false,
+      "channelChat": false,
+      "id": 365905429,
+      "type": "private",
+      "first_name": "66440"
+    },
+    "text": "/settings",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}
